@@ -1,0 +1,44 @@
+{
+    "name": "UCAR People",
+    "description": "University Corporation for Atmospheric Research. We are a nonprofit consortium of 100+ universities fostering innovative research in Earth system science.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1195-ucar-people.jpg",
+    "tags": [
+        "have api",
+        "relationships"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ucar-people\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "UCAR People",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1195-ucar-people.jpg",
+            "humanURL": "https:\/\/wiki.ucar.edu\/display\/peopledb\/People+REST+API",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ucar-people-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/wiki.ucar.edu\/display\/peopledb\/People+REST+API"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ncar"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/UCAR_News"
+        }
+    ]
+}
